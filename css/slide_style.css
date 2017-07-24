@@ -1,0 +1,12 @@
+
+.slideDiv {
+  position:absolute;
+  transition: all 1.5s ease;
+  opacity:.1; /*opacity varies from 0 or .1 */
+}
+
+.slideImg {
+	width:320%;
+	height:220px;
+     padding:5px;
+}
